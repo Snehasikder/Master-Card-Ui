@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     min-height: 100vh;
     display: flex;
@@ -16,6 +17,7 @@ body {
     background: cover;
     font-family: 'Poppins', sans-serif;
 }
+
 .container {
     position: relative;
     background-image: url('background.png');
@@ -27,4 +29,10 @@ body {
     width: 100%;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     color: #fff;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
