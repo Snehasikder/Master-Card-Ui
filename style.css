@@ -40,3 +40,10 @@ header {
 .logo img {
     width: 48px;
 }
+
+header h5 {
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
