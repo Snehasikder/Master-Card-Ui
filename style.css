@@ -50,3 +50,13 @@ header h5 {
 header .chip {
     width: 50px;
 }
+
+.card-details .name-number {
+    flex: 1;
+}
+
+.card-details h6 {
+    font-size: 12px;
+    color: #ddd;
+    margin-bottom: 5px;
+}
