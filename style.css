@@ -96,3 +96,16 @@ h5.number {
     box-shadow: 6px 7px 10px black;
 }
 
+.d:hover{
+    background-color: #00D4FF;
+    background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 23%, rgba(9, 9, 121, 1) 67%, rgba(0, 212, 255, 1) 100%);
+    text-transform: capitalize;
+    color: white;
+    box-shadow: 6px 7px 10px rgb(243, 8, 8);
+    font-family: "Edu SA Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
