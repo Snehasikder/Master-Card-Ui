@@ -5,3 +5,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("b.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
