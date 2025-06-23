@@ -78,3 +78,21 @@ h5.number {
     letter-spacing: 2px;
     margin-bottom: 20px;
 }
+
+.valid-date {
+    text-align: right
+}
+
+.d{ 
+    background-color: darksalmon;
+    color: black;
+    height: 60px;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    margin-left: 20px;
+    box-sizing: content-box;
+    border-radius: 8px;
+    box-shadow: 6px 7px 10px black;
+}
+
