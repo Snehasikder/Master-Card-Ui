@@ -16,4 +16,15 @@ body {
     background: cover;
     font-family: 'Poppins', sans-serif;
 }
-
+.container {
+    position: relative;
+    background-image: url('background.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    border-radius: 18px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
