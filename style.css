@@ -51,6 +51,13 @@ header .chip {
     width: 50px;
 }
 
+.card-details {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
 .card-details .name-number {
     flex: 1;
 }
