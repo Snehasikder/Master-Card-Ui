@@ -2,6 +2,8 @@
 
 A clean, responsive credit card UI built with HTML and CSS.
 
+Its not responsive yet...will be adding later on hopefully....
+
 🔗 [Live Demo](https://snehasikder.github.io/Master-Card-Ui/)
 
 ## Features
